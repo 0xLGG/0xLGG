@@ -9,3 +9,5 @@
   - [Twitter](https://twitter.com/__LGG__)
   - [Discord](http://discord.com/invite/Gxt3FuXPBm)
 - ⚡ Fun fact: (currently kept in secret)
+
+[![LGG's github stats](https://github-readme-stats.vercel.app/api?username=0xLGG&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
