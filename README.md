@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with (currently nothing)
 - 💬 Ask me about (life?)
 - 📫 How to reach me: 
+  - [Twitch](https://www.twitch.tv/hey_its_lgg)
   - [Twitter](https://twitter.com/__LGG__)
   - [Discord](http://discord.com/invite/Gxt3FuXPBm)
 - ⚡ Fun fact: (currently kept in secret)
