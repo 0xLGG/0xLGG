@@ -6,9 +6,9 @@
 - 🤔 I’m looking for help with (currently nothing)
 - 💬 Ask me about (life?)
 - 📫 How to reach me: 
-  - [Webpage](https://lgg-hacks.art)
-  - [Twitch](https://www.twitch.tv/hey_its_lgg)
-  - [Twitter](https://twitter.com/__LGG__)
+  - [Webpage](https://0xlgg.com)
+  - [Twitch](https://www.twitch.tv/0xlgg)
+  - [Twitter](https://twitter.com/0xlgg)
   - [Discord](http://discord.com/invite/Gxt3FuXPBm)
 - ⚡ Fun fact: (currently kept in secret)
 
